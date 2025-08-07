@@ -1,0 +1,11 @@
+/crash-reports/
+/backups/
+/libraries/
+/logs/
+/journeymap/
+/mods/
+/world/
+
+/forge-1.19.2-43.5.0-installer.jar
+/forge-1.19.2-43.5.0-installer.jar.log
+/eula.txt
