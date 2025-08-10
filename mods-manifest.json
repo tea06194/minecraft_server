@@ -77,6 +77,10 @@
         "added": "2025-08-07"
       },
       {
+        "file": "ferritecore-5.0.3-forge.jar",
+        "added": "2025-08-09"
+      },
+      {
         "file": "ftb-chunks-forge-1902.4.7-build.420.jar",
         "added": "2025-08-07"
       },
@@ -99,6 +103,10 @@
       {
         "file": "gravestone-forge-1.19.2-1.0.24.jar",
         "added": "2025-08-07"
+      },
+      {
+        "file": "modernfix-forge-5.18.1+mc1.19.2.jar",
+        "added": "2025-08-09"
       },
       {
         "file": "polylib-forge-1900.0.3-build.144.jar",
